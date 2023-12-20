@@ -20,8 +20,8 @@ end the program
 ## PROGRAM:
 '''
 ```
-Developed by:vellachi tilak
-Registered number: 2122232340172
+Developed by:KUSHALI P G
+Registered number: 212223230110
 '''
 num_words=0
 with open('text.txt','r') as f1:
