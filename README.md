@@ -17,9 +17,9 @@ print the counted words
 end the program
 
 
-## PROGRAM:
-'''
+## PROGRAAM:
 ```
+'''
 Developed by:KUSHALI P G
 Registered number: 212223230110
 '''
